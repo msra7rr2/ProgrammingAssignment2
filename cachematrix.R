@@ -1,5 +1,4 @@
-## makeCacheMatric builds a set of functions and returns
-##This creates a special matrix m, where x is an ordinary matrix. 
+## makeCacheMatric creates a special matrix m, where x is an ordinary matrix. 
 ##You can get the value with the get() function, change the value
 ##with set() function, where y is an ordinary matrix. 
 ##You can get the inverse with cacheSolve function.
